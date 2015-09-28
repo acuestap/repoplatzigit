@@ -1,5 +1,7 @@
 Este archivo es para trabajar de manera colaborativa con otros desarrolladores.
 
-Favor mantener actualizado.
+Favor mantener esto actualizado.
+
+Mi nombre es colaborador - win y quisiera ser parte de este proyecto.
 
 Att: Admon.
